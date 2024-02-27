@@ -1,2 +1,4 @@
 # playGround
 ForExperimentsOfGit
+
+commit A
